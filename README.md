@@ -14,7 +14,7 @@ A simple application for creating, editing, deleting and connecting tasks as a f
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Vlasanya/TaskFlow
+git clone https://github.com/Vlasanya/TaskFlow.git
 cd task-flow
 ```
 
@@ -51,7 +51,7 @@ Static files will be generated in the `build/` folder and are ready for deployme
 
 ## Demo
 
-
+[https://task-flow-lemon-two.vercel.app/] (Vercel)
 
 ---
 
